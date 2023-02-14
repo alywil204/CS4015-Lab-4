@@ -1,5 +1,3 @@
-package com.java.lab4;
-
 class Demo {
 public static void main(String[] args) 
  { 
